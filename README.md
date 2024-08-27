@@ -1,8 +1,13 @@
 Agenda:
+
 Step 1 - Preparation of the data and definitions
+
 Step 2 - GLM Analysis: frequency
+
 Step 3 - GLM Analysis: Costs
+
 Step 4 - Pure premium: adjusting factor - global balance
+
 Step 5 - Atypical treatment
 
 1 - Preparation of the data and definitions
